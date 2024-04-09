@@ -3,11 +3,11 @@
 ## Get all album
 #### Api link: [https://jsonplaceholder.typicode.com/albums](https://jsonplaceholder.typicode.com/albums)
 This application will show you the GUI for album's and how to create, update and delete in it on api.
-## Tools Used
+## Tech Stack
 * Bootstrap
 * HTML
 * CSS
-* Redux Toolkit
+* React.js
 
 
 ### Follow the instructions below.
