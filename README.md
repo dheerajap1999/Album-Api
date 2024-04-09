@@ -18,7 +18,7 @@ This application will show you the GUI for album's and how to create, update and
 * After completing the installation type `npm start` this will host the application on [http://localhost:3000](http://localhost:3000).
 * That's it and you are good to go.
 
-### Project is hosted on [https://dheerajap1999.github.io/Album](https://dheerajap1999.github.io/Album)
+### Project is hosted on [https://dheerajap1999.github.io/Album-Api](https://dheerajap1999.github.io/Album-Api)
 
 
 
